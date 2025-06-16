@@ -1,0 +1,43 @@
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.exe
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.deps.json
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.runtimeconfig.json
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.dll
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.pdb
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.csproj.AssemblyReference.cache
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form1.resources
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Properties.Resources.resources
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.csproj.GenerateResource.cache
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.AssemblyInfoInputs.cache
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.AssemblyInfo.cs
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.dll
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\refint\isparta.dll
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.pdb
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.genruntimeconfig.cache
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\ref\isparta.dll
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form2.resources
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form3.resources
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form4.resources
+C:\Users\Sıla Ayas\Desktop\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form5.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.exe
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.deps.json
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.runtimeconfig.json
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.dll
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\bin\Debug\net6.0-windows\isparta.pdb
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form1.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form2.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form3.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form4.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Form5.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.Properties.Resources.resources
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.csproj.GenerateResource.cache
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.AssemblyInfoInputs.cache
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.AssemblyInfo.cs
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.dll
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\refint\isparta.dll
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.pdb
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\isparta.genruntimeconfig.cache
+C:\Users\Sıla Ayas\Desktop\me\geçen dönemler\okulla alakalı her şey\ders\isparta\isparta\obj\Debug\net6.0-windows\ref\isparta.dll
